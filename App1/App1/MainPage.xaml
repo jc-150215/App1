@@ -6,14 +6,14 @@
              x:Class="App1.MainPage">
 
     <ContentPage.Content>
-        <StackLayout> 
+        <StackLayout>
 
             <Label Text="身長をcm単位で入力してください。"
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />
 
             <Entry x:Name="Height"
-                   Text="      "
+                   Text="       "
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />
 
